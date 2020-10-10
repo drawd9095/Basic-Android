@@ -3,4 +3,10 @@
     <dimen name="editText_textSize_login">20sp</dimen>
     <dimen name="paddingHorizontalLogin">32dp</dimen>
     <dimen name="dontHaveAccount">16sp</dimen>
+    <dimen name="editText_margin_create_account">10dp</dimen>
+    <dimen name="high_card">200dp</dimen>
+    <dimen name="corner_card">20dp</dimen>
+    <dimen name="text_user_name_card">25sp</dimen>
+    <dimen name="first_word">15sp</dimen>
+    <dimen name="second_word">15sp</dimen>
 </resources>

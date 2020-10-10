@@ -28,9 +28,19 @@
         <item name="android:textColorPrimary"> @color/editTextColorWhite</item>
         <item name="android:textColorHighlight"> @color/editTextColorWhite</item>
         <item name="android:textSize"> @dimen/editText_textSize_login</item>
-
-
+        <item name="colorAccent">@color/editTextColorWhite</item>
     </style>
+
+
+    <style name="EditTextBack" parent="TextAppearance.AppCompat">
+        <item name="android:textColorHint"> @color/editTextColorBlack</item>
+        <item name="android:textColorPrimary"> @color/editTextColorBlack</item>
+        <item name="android:textColorHighlight"> @color/editTextColorBlack</item>
+        <item name="android:textSize"> @dimen/editText_textSize_login</item>
+        <item name="colorAccent">@color/editTextColorBlack</item>
+    </style>
+
+
 
 
 </resources>

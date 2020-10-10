@@ -12,4 +12,11 @@
     <string name="nombre_de_usuario">User Name</string>
     <string name="password">PassWord</string>
     <string name="ingresar">Login</string>
+    <string name="email">email</string>
+    <string name="crear_cuenta">Join Us</string>
+    <string name="usuario">user</string>
+    <string name="confirmar_pass">Conformar Contraseña</string>
+    <string name="create_account">Create Accoumt</string>
+    <string name="first_word">Hace </string>
+    <string name="second_word">4 días</string>
 </resources>
